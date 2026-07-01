@@ -97,6 +97,9 @@ cd PENGENDALIAN-PROSES-KELOMPOK3
 ![Simulation Result](https://github.com/eidolon1302/PENGENDALIAN-PROSES-KELOMPOK3/blob/main/Results/Ratio_Control_MatlabResult/CSTR%20Ratio%20Control%20Result.png)
 
 ## References
+Coughanowr, D. R., & LeBlanc, S. E. (2009). Process systems analysis and control (3rd ed.). McGraw-Hill.
+O'Dwyer, A. (2009). PID compensation of time delayed processes 1998–2002: A survey. Journal of Process Control, 19(4), 559–577
+Seborg, D. E., Edgar, T. F., Mellichamp, D. A., & Doyle III, F. J. (2011). Process dynamics and control (3rd ed.). McGraw-Hill.
 
 ## Contributor
 
